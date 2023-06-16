@@ -1,0 +1,170 @@
+[
+    {
+        "id": "1",
+        "titulo": "Elden Ring",
+        "imagen": "./img/eldenring.jpg",
+        "precio": 16000
+    },
+    {
+        "id": "2",
+        "titulo": "One Piece Pirate Warriors 4",
+        "imagen": "./img/piratewarriors4.jpg",
+        "precio": 16000
+    },
+    {
+        "id": "3",
+        "titulo": "Red Dead Redemption 2",
+        "imagen": "./img/rdr2.jpg",
+        "precio": 18000
+    },
+    {
+        "id": "4",
+        "titulo": "Sekiro: Shadows Die Twice",
+        "imagen": "./img/sekiro.jpg",
+        "precio": 6000
+    },
+    {
+        "id": "5",
+        "titulo": "GTA V",
+        "imagen": "./img/gtav.jpg",
+        "precio": 4000
+    },
+    {
+        "id": "6",
+        "titulo": "God Of War (2018)",
+        "imagen": "./img/gow1.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "7",
+        "titulo": "Naruto: Ninja Storm 4",
+        "imagen": "./img/ninjastorm4.jpg",
+        "precio": 6000
+    },
+    {
+        "id": "8",
+        "titulo": "Dragon Ball Z: Kakarot",
+        "imagen": "./img/dbzkakarot.jpg",
+        "precio": 16000
+    },
+    {
+        "id": "9",
+        "titulo": "Call Of Duty: Modern Warfare 2",
+        "imagen": "./img/modernwarfare2.jpg",
+        "precio": 14000
+    },
+    {
+        "id": "10",
+        "titulo": "Dragon Ball Z: FighterZ",
+        "imagen": "./img/fighterz.jpg",
+        "precio": 12000
+    },
+    {
+        "id": "11",
+        "titulo": "Dragon Ball Z: The Breakers",
+        "imagen": "./img/thebreakers.jpg",
+        "precio": 11000
+    },
+    {
+        "id": "12",
+        "titulo": "Dragon Ball Z: Xenoverse 2",
+        "imagen": "./img/xenoverse2.jpg",
+        "precio": 4000
+    },
+    {
+        "id": "13",
+        "titulo": "Forza Horizon 5",
+        "imagen": "./img/forza5.jpg",
+        "precio": 6000
+    },
+    {
+        "id": "14",
+        "titulo": "The Witcher 3",
+        "imagen": "./img/thewitcher3.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "15",
+        "titulo": " Foza MotorSport 7",
+        "imagen": "./img/motorsport7.jpg",
+        "precio": 16000
+    },
+    {
+        "id": "16",
+        "titulo": "F1",
+        "imagen": "./img/f1.jpg",
+        "precio": 20000
+    },
+    {
+        "id": "17",
+        "titulo": "Star Wars: Jedi Fallen Order",
+        "imagen": "./img/jedifallenorder.jpg",
+        "precio": 13000
+    },
+    {
+        "id": "18",
+        "titulo": "God Of War: Ragnarok",
+        "imagen": "./img/gowragnarok.jpeg",
+        "precio": 18000
+    },
+    {
+        "id": "19",
+        "titulo": "Ghost Of Tsushima",
+        "imagen": "./img/ghostoftsushima.jpg",
+        "precio": 16000
+    },
+    {
+        "id": "20",
+        "titulo": "Star Wars: Battlefront 2",
+        "imagen": "./img/battlefront2.jpg",
+        "precio": 8000
+    },
+    {
+        "id": "21",
+        "titulo": "Call Of Duty: Black Ops 4",
+        "imagen": "./img/blackops4.jpg",
+        "precio": 6000
+    },
+    {
+        "id": "22",
+        "titulo": "Lords Of The Ring: Gollum",
+        "imagen": "./img/lordsoftheringgollum.jpg",
+        "precio": 16500
+    },
+    {
+        "id": "23",
+        "titulo": "Hogwarts Legacy",
+        "imagen": "./img/hogwarts.jpg",
+        "precio": 17000
+    },
+    {
+        "id": "24",
+        "titulo": "Fortnite",
+        "imagen": "./img/fortnite.jpg",
+        "precio": 2000
+    },
+    {
+        "id": "25",
+        "titulo": "One Piece Odyssey",
+        "imagen": "./img/onepieceodyssey.jpg",
+        "precio": 17000
+    },
+    {
+        "id": "26",
+        "titulo": "Jump Force",
+        "imagen": "./img/jumpforce.jpg",
+        "precio": 3000
+    },
+    {
+        "id": "27",
+        "titulo": "One Punch Man",
+        "imagen": "./img/onepunchman.jpg",
+        "precio": 12000
+    },
+    {
+        "id": "28",
+        "titulo": "Skyrim",
+        "imagen": "./img/skyrim.jpg",
+        "precio": 8000
+    }
+]
